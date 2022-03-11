@@ -114,7 +114,7 @@
     "name":"Mango Madness",
     "price": 11.00
   },
-    {
+  {
     "id": "124",
     "name":"My Butter Cup",
     "price": 11.00
@@ -154,7 +154,7 @@
     "name":"Mocha Capp",
     "price": 11.00
   },
-   {
+  {
     "id": "132",
     "name":"Peach Cobbler",
     "price": 11.00
@@ -168,7 +168,5 @@
     "id": "134",
     "name":"Blue Ivy Acai Bowl",
     "price": 16.00
-  },
-  
-  
+  }  
 ]
