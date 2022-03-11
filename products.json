@@ -61,7 +61,7 @@
   },
   {
     "id": "113",
-    "name":"Cinnamon Toast Crunch",
+    "name":"Cinnamon Toast",
     "price": 11.00
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "id": "140",
-    "name":"Strawberry Banana Acai Bowl",
+    "name":"Strawberry Banana",
     "price": 16.00
   },
   {
@@ -236,12 +236,132 @@
   },
   {
     "id": "148",
-    "name":"Cinnamon Toast Crunch",
+    "name":"Cinnamon Toast",
     "price": 18.00
   },
   {
     "id": "149",
     "name":"Cookie Monster Cheesecake",
     "price": 9.50
+  },
+  {
+    "id": "150",
+    "name":"Funfetti Cheesecake",
+    "price": 9.50
+  },
+  {
+    "id": "151",
+    "name":"Oreo Cheesecake",
+    "price": 9.50
+  },
+  {
+    "id": "152",
+    "name":"Strawberry Shortcake",
+    "price": 9.50
+  },
+  {
+    "id": "153",
+    "name":"Twix Cheesecake",
+    "price": 9.50
+  },
+  {
+    "id": "154",
+    "name":"Keto Vanilla",
+    "price": 9.50
+  },
+  {
+    "id": "155",
+    "name":"Fruity Pebbles",
+    "price": 14.99
+  },
+  {
+    "id": "156",
+    "name":"Variety Cookies",
+    "price": 14.99
+  },
+  {
+    "id": "157",
+    "name":"Reese's Cookies",
+    "price": 14.99
+  },
+  {
+    "id": "158",
+    "name":"Vegan Chocolate Chip",
+    "price": 14.99
+  },
+  {
+    "id": "159",
+    "name":"GF Chocolate Chip ",
+    "price": 14.99
+  },
+  {
+    "id": "160",
+    "name":"GF Peanut Cookies",
+    "price": 14.99
+  },
+  {
+    "id": "161",
+    "name":"Cookie Monster",
+    "price": 9.00
+  },
+  {
+    "id": "162",
+    "name":"Coffee Cake",
+    "price": 9.00
+  },
+  {
+    "id": "163",
+    "name":"Tripple Berry",
+    "price": 9.00
+  },
+  {
+    "id": "164",
+    "name":"Chocolate Chip",
+    "price": 16.99
+  },
+  {
+    "id": "165",
+    "name":"S'mores",
+    "price": 16.99
+  },
+  {
+    "id": "166",
+    "name":"Funfetti",
+    "price": 16.99
+  },
+  {
+    "id": "167",
+    "name":"Bubble Gum Latte",
+    "price": 4.50
+  },
+  {
+    "id": "168",
+    "name":"Nutella Latte",
+    "price": 4.50
+  },
+  {
+    "id": "169",
+    "name":"Caramel",
+    "price": 4.50
+  },
+  {
+    "id": "170",
+    "name":"Mocha",
+    "price": 4.50
+  },
+  {
+    "id": "171",
+    "name":"Oreo Latte",
+    "price": 4.50
+  },
+  {
+    "id": "172",
+    "name":"Twix Latte",
+    "price": 5.50
+  },
+  {
+    "id": "173",
+    "name":"Reese's Latte",
+    "price": 5.50
   }
 ]
