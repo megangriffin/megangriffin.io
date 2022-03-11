@@ -2,7 +2,8 @@
   {
     "id": "101",
     "name":"Apple Jacks",
-    "price":11.00
+    "price":11.00,
+    "img_url": "images/milkshake.png"
   },
   {
     "id": "102",
