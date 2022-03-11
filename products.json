@@ -26,16 +26,86 @@
   },
   {
     "id": "106",
-    "name":"Bermuda Triangle",
+    "name":"Lucky Charms",
     "price": 11.00
   },
   {
     "id": "107",
+    "name":"Nutella",
+    "price": 12.00
+  },
+  {
+    "id": "108",
+    "name":"Pistachio",
+    "price": 12.00
+  },
+  {
+    "id": "109",
+    "name":"Reese's Puffs",
+    "price": 11.00
+  },
+  {
+    "id": "110",
+    "name":"Twix",
+    "price": 11.00
+  },
+  {
+    "id": "111",
+    "name":"Birthday Cake",
+    "price": 11.00
+  },
+  {
+    "id": "112",
+    "name":"Captain Crunch",
+    "price": 11.00
+  },
+  {
+    "id": "113",
+    "name":"Cinnamon Toast Crunch",
+    "price": 11.00
+  },
+  {
+    "id": "114",
+    "name":"Cookie Monster",
+    "price": 11.00
+  },
+  {
+    "id": "115",
+    "name":"Fruity Pebbles",
+    "price": 11.00
+  },
+  {
+    "id": "116",
+    "name":"Mint Chocolate Chip",
+    "price": 11.00
+  },
+  {
+    "id": "117",
+    "name":"Oreo",
+    "price": 11.00
+  },
+  {
+    "id": "118",
+    "name":"Reese's",
+    "price": 11.00
+  },
+  {
+    "id": "119",
+    "name":"Trix",
+    "price": 11.00
+  },
+  {
+    "id": "120",
+    "name":"Vanilla",
+    "price": 11.00
+  },
+  {
+    "id": "121",
     "name":"Blueberry Muffin",
     "price": 11.00
   },
   {
-    "id": "108",
+    "id": "122",
     "name":"Green Lantern",
     "price": 11.00
   }
