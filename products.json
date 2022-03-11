@@ -11,44 +11,32 @@
   },
   {
     "id": "103",
-    "name":"Pizza",
-    "price":3.99,
-    "description": "This is a description!",
-    "img_url": "http://placehold.it/250x250"
+    "name":"Caramel",
+    "price": 11.00
   },
   {
     "id": "104",
-    "name":"Burgers",
-    "price":4.99,
-    "description": "This is a description!",
-    "img_url": "http://placehold.it/250x250"
+    "name":"Coco Pebbles",
+    "price": 11.00
   },
   {
     "id": "105",
-    "name":"Milk",
-    "price":3.10,
-    "description": "This is a description!",
-    "img_url": "http://placehold.it/250x250"
+    "name":"Fruit Loops",
+    "price": 11.00
   },
   {
     "id": "106",
-    "name":"Eggs",
-    "price":1.87,
-    "description": "This is a description!",
-    "img_url": "http://placehold.it/250x250"
+    "name":"Bermuda Triangle",
+    "price": 11.00
   },
   {
     "id": "107",
-    "name":"Bread",
-    "price":4.56,
-    "description": "This is a description!",
-    "img_url": "http://placehold.it/250x250"
+    "name":"Blueberry Muffin",
+    "price": 11.00
   },
   {
     "id": "108",
-    "name":"Bananas",
-    "price":4.59,
-    "description": "This is a description!",
-    "img_url": "http://placehold.it/250x250"
+    "name":"Green Lantern",
+    "price": 11.00
   }
 ]
