@@ -209,8 +209,6 @@ function removeItem(id) {
 // create a function to remove all items in the cart when the confirm button is pressed
 
 function confirm() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
     // get cart key from session storage and parse it into an object
     let cart = JSON.parse(sessionStorage.getItem('cart'));
 
@@ -223,6 +221,8 @@ function confirm() {
     sessionStorage.setItem('cart', JSON.stringify(cart));
     // call showCart again
     showCart();
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
 }
 
 
@@ -314,10 +314,6 @@ function showCart() {
 
 showCart();
 
-function myFunction() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-}
 /*****************************
 End cart operation functions
 *****************************/
