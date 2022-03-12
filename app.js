@@ -206,6 +206,26 @@ function removeItem(id) {
   showCart();
 }
 
+// create a function to remove all items in the cart when the confirm button is pressed
+
+function confirm() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+    // get cart key from session storage and parse it into an object
+    let cart = JSON.parse(sessionStorage.getItem('cart'));
+
+    // loop through all items in the cart
+      for (let i in cart) {
+          cart.splice(i);
+        } 
+      showCart();
+    // add stringified cart to session storage under cart key
+    sessionStorage.setItem('cart', JSON.stringify(cart));
+    // call showCart again
+    showCart();
+}
+
+
 // calculating and returning the total
 function calcTotal() {
 // get the value and parse from session storage
@@ -281,9 +301,7 @@ function showCart() {
         `;
         duplicates.push(cart[i].id);
       }
-
     }
-
     $('tbody').html(html);
   }
 
@@ -296,6 +314,10 @@ function showCart() {
 
 showCart();
 
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
 /*****************************
 End cart operation functions
 *****************************/
